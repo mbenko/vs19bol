@@ -7,6 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myWebDemo", "myWebDemo\myWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnDemo", "fnDemo\fnDemo.csproj", "{14381434-9159-4555-B11E-5A906B3CFD4A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{7984F1B7-250B-495E-BE40-4B56F8B3C5FF}"
+	ProjectSection(SolutionItems) = preProject
+		Content\VS19BOL-DownersGrove.pdf = Content\VS19BOL-DownersGrove.pdf
+		Content\vs19bol.vssettings = Content\vs19bol.vssettings
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
